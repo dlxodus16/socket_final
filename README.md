@@ -18,3 +18,17 @@
 차이점이라고 하면 기존 멀티 채팅 서버 프로그램은 단순 채팅기능만 가지고 있지만 이번 만든 프로그램은 채팅기능과 2명에서 함께 진행 할 수 있는 간단한 가위바위보 게임 기능을 추가하였다.
 
 ## 실행화면
+프로그램을 실행시켰을 때 가장 먼저 등장하는 화면<br>
+<img width="" height="" src="./png/result1.png"></img><br>
+클라이언트가 채팅기능을 이용하는 화면<br>
+<img width="" height="" src="./png/result2.png"></img><br>
+가위바위보 게임에서 엉뚱한 값을 입력했을 때 화면<br>
+<img width="" height="" src="./png/result3.png"></img><br>
+가위바위보 게임에서 정상적인 값을 입력했을 때 화면<br>
+<img width="" height="" src="./png/result4.png"></img><br>
+가위바위보 게임 결과 화면<br>
+<img width="" height="" src="./png/result5.png"></img><br>
+가위바위보 게임이 끝난 화면<br>
+<img width="" height="" src="./png/result6.png"></img><br>
+종료된후 서버 화면<br>
+<img width="" height="" src="./png/result7.png"></img>
